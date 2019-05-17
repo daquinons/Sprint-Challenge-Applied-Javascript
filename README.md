@@ -44,7 +44,7 @@ It is a piece of code that is executed every time an event is triggered.
 
 4. Why would we convert a NodeList into an Array?
 
-To access Array methods such as forEach().
+To access Array methods such as map().
 
 5. What is a component?
 
